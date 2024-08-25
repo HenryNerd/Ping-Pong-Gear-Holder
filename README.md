@@ -11,6 +11,6 @@
 | Peg | The Peg used for connecting everything. You will need 2 per side your planing on connecting. | https://github.com/HenryNerd/Ping-Pong-Gear-Holder/blob/main/Peg%20v1.stl |
 
 ## Pictures ##
-![alt text](thumbnail_img_3372.webp)
-![alt text](thumbnail_img_3373.webp)
-![alt text](thumbnail_img_3374.webp)
+![alt text](thumbnail_img_3372.jpg)
+![alt text](thumbnail_img_3373.jpg)
+![alt text](thumbnail_img_3374.jpg)
